@@ -1,9 +1,21 @@
 # ThatTonybo
-Hi, I'm Tony. I'm a CS student and web developer, with experience in languages including JavaScript, Python, Java and a few others.
+Hi, I'm Tony. I'm a CS student and web developer
+
+### Language
+- JavaScript
+- TypeScript (learning)
+- Python
+- HTML/CSS
+- Java (learning)
+
+### Technologies
+- Vue
+- Nuxt
+- Electron
+- MongoDB
 
 ### Maintaining/part of
-- Lead Developer of [Spaces](https://github.com/tryspaces)
-- Owner of the [YouTube Discord bot](https://top.gg/bot/youtube)
+- Developer of [YouTube Discord Bot](https://top.gg/bot/youtube)
 
 ### Contact
 - 💬 ThatTonybo#0001

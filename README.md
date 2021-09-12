@@ -1,23 +1,24 @@
 # ThatTonybo
 Hi, I'm Tony. I'm a CS student and web developer
 
-### Language
-- JavaScript
-- TypeScript (learning)
+### Languages
+- JavaScript/TypeScript
 - Python
 - HTML/CSS
-- Java (learning)
+- Java (partially)
 
 ### Technologies
-- Vue
-- Nuxt
+- Vue/Nuxt
 - Electron
 - MongoDB
 
-### Maintaining/part of
-- Developer of [YouTube Discord Bot](https://top.gg/bot/youtube)
+### Main Projects
+- [YouTube Discord Bot](https://top.gg/bot/youtube)
+- [Centra Bot](https://github.com/centrabot/centra)
+- [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
 
 ### Contact
-- 💬 ThatTonybo#0001
-- 📧 thattonybo@gmail.com
+- 💬 Discord: ThatTonybo#0001
+- 💬 Revolt: @ThatTonybo
 - 🐦 @ThatTonybo
+- 📧 thattonybo@gmail.com

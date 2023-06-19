@@ -1,24 +1,26 @@
 # ThatTonybo
-Hi, I'm Tony. I'm a CS student and web developer
+G'day, I'm Tony, a web developer from Australia
 
 ### Languages
-- JavaScript/TypeScript
+- TypeScript/JavaScript
+- Lua
 - Python
 - HTML/CSS
 - Java (partially)
 
 ### Technologies
-- Vue/Nuxt
+- Vue/Nuxt 3
 - Electron
 - MongoDB
 
 ### Main Projects
 - [YouTube Discord Bot](https://top.gg/bot/youtube)
-- [Centra Bot](https://github.com/centrabot/centra)
-- [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+  - A Discord bot serving over 400,000 servers
+- several archived/no longer maintained projects
+- more to come soon!
 
 ### Contact
-- 💬 Discord: ThatTonybo#0001
+- 💬 Discord: @thattonybo
 - 💬 Revolt: @ThatTonybo
-- 🐦 @ThatTonybo
-- 📧 thattonybo@gmail.com
+- 🐦 Twitter: [@thattonybo](https://twitter.com/thattonybo)
+- 📧 Email: [thattonybo@gmail.com](mailto:thattonybo@gmail.com)
